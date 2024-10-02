@@ -1,4 +1,4 @@
-# Employee-Data-Analysis-in-power-b
+# Employee-Data-Analysis-in-power-bi
 This project uses Power BI to analyze employee data, creating an easy-to-read dashboard. It shows key details like headcount,average of salaries and ratings as per employees performance and their heads count. The dashboard helps managers make better decisions about hiring and managing staff by presenting clear, actionable insights from the data.
 ### Features
 #### Interactive Dashboard: A Power BI dashboard with visualizations like charts and graphs for easy exploration of employee metrics.
